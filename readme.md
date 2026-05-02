@@ -1,1 +1,0 @@
-<a href="https://kryonix.lol">Kryonix</a> © 2026 by <a href="https://github.com/primevxie">Primevxie</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
